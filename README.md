@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on web-based projects and beginner-friendly repositories  
 - 🤔 I’m looking for help with JavaScript and responsive design  
 - 💬 Ask me about HTML, CSS, and the basics of frontend development  
-- 📫 How to reach me: [Add your email or LinkedIn here]  
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love bringing designs to life with code!
 
